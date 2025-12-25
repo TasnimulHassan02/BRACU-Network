@@ -32,18 +32,17 @@ Web, Email, DNS, and DHCP services work correctly
 Failover paths verified by disabling links
 
 
-
 📁 Deliverables
 
-Cisco Packet Tracer file (.pkt)
+**Cisco Packet Tracer file (.pkt)**
 
-Network topology diagram
+**Network topology diagram**
 
-VLSM tree
+**VLSM tree**
 
-IP address table
+**IP address table**
 
-Router configuration commands
+**Router configuration commands**
 
 
 🛠 Tools
